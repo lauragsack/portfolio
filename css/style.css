@@ -1,0 +1,11 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+h1, h3, h4, .navbar {
+  font-family: 'Quicksand', sans-serif;
+}
+
+#intro, .skills-list, .work-desc, #mc_embed_signup, footer {
+  font-family: 'Raleway', sans-serif;
+}
