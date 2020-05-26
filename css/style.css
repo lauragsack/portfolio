@@ -31,7 +31,7 @@ h1, h2, h3, h4, .navbar {
 
 #about {
   background-color: #242423;
-  color: white;
+  color: #C6D8D3;
   height: 700px;
   width: 100%;
   display: flex;
@@ -58,7 +58,7 @@ h1, h2, h3, h4, .navbar {
 
 #work {
   background-color: #242423;
-  color: white;
+  color: #C6D8D3;
   display: flex;
   flex-direction: column;
   justify-content: center;
