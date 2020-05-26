@@ -112,3 +112,8 @@ i {
   border-width: 2px;
   padding: 1px;
 }
+
+.link, .nav-link, footer {
+  color: white;
+  font-weight: bolder;
+}
