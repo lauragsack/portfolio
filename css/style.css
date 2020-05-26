@@ -1,0 +1,119 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+h1, h2, h3, h4, .navbar {
+  font-family: 'Quicksand', sans-serif;
+}
+
+#intro, .skills-list, .work-desc, #mc_embed_signup, footer {
+  font-family: 'Raleway', sans-serif;
+}
+
+.navbar, footer {
+  background-color: #242423;
+  color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+#home {
+  background-color: #C6D8D3;
+  color: #242423;
+  height: 700px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#about {
+  background-color: #242423;
+  color: white;
+  height: 700px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+#intro {
+  width: 60%;
+  align-self: center;
+}
+
+#skills {
+  background-color: #C6D8D3;
+  color: #242423;
+  height: 700px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#work {
+  background-color: #242423;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.work-desc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#contact {
+  background-color: #C6D8D3;
+  color: #242423;
+  height: 700px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+label {
+  padding-top: 10px;
+}
+
+i {
+  margin: 20px 0px;
+}
+
+.work-img {
+  padding: 15px 0;
+}
+
+#play-dog {
+  padding-right: 10px;
+}
+
+#icons {
+  padding-top: 20px;
+}
+
+#tech-skills {
+  padding: 0 0 30px 0;
+}
+
+#mce-MMERGE3 {
+  border-color: lightgray;
+  border-width: 2px;
+  padding: 1px;
+}
+
+.link, .nav-link, footer {
+  color: white;
+  font-weight: bolder;
+}
